@@ -1,6 +1,10 @@
 {
-  "main.css": "static/css/main.22c07174.css",
-  "main.css.map": "static/css/main.22c07174.css.map",
-  "main.js": "static/js/main.adcc721a.js",
-  "main.js.map": "static/js/main.adcc721a.js.map"
+  "0.js": "static/js/0.4ca45342.js",
+  "0.js.map": "static/js/0.4ca45342.js.map",
+  "1.css": "static/css/1.22c07174.css",
+  "1.css.map": "static/css/1.22c07174.css.map",
+  "1.js": "static/js/1.fa1d6e74.js",
+  "1.js.map": "static/js/1.fa1d6e74.js.map",
+  "runtime.js": "static/js/runtime.5707261e.js",
+  "runtime.js.map": "static/js/runtime.5707261e.js.map"
 }
