@@ -9,10 +9,13 @@
   "dependencies": {
     "lite-server": "^2.4.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "javascript-obfuscator": "^0.27.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "start": "lite-server",
+    "build" : "javascript-obfuscator ./static/js"
   },
   "author": "",
   "license": "ISC"
