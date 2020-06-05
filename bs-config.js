@@ -4,5 +4,5 @@ module.exports = {
     server:{
       baseDir: ["./"]
     },
-    open: false
+    ghostMode: false
 };
